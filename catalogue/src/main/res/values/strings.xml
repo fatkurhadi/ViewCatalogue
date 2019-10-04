@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="nav_movie">Movie</string>
+    <string name="nav_tv_show">TV Show</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_language">Language</string>
+    <string name="nav_notify">Notification</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="image_backdrop">Backdrop Image</string>
+    <string name="image_poster">Poster Image</string>
+    <string name="no_collect">No Collection</string>
+    <string name="no_internet">Please Check Your Connection</string>
+    <string name="txt_synopsis">Synopsis</string>
+    <string name="fav_add">add to favorite</string>
+    <string name="fav_drop">delete from favorite</string>
+    <string name="added">added to favorite</string>
+    <string name="deleted">deleted from favorite</string>
+    <string name="nav_daily">Daily Reminder</string>
+    <string name="nav_daily_desc">you will receive a notification to view the contents of the modelMovie catalogue every day at 7 a.m.</string>
+    <string name="nav_release">Release Reminder</string>
+    <string name="nav_release_desc">you will receive a notification of movie that release on your current date at 8 a.m.</string>
+    <string name="movie_search">search movie in catalogue</string>
+    <string name="tv_show_search">search tv show in catalogue</string>
+    <string name="daily_title">Today s reminder</string>
+    <string name="daily_message">movie catalogue is waiting for you, check now.</string>
+    <string name="released_title">Movie release today</string>
+    <string name="released_message">movies has been released today, check now.</string>
+    <string name="released_empty">no movie released today.</string>
+</resources>
